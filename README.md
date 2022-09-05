@@ -6,4 +6,4 @@ The data for this project was a subset of the DDInter database that includes dru
 
 This data was used to build a weighted interaction network and create vector embeddings for each drug using the package Node2Vec (A. Grover, J. Leskovec). The list of embeddings for the drugs used in the final model are included here.
 
-Also included is the initial code for the project (DDI_Severity_Prediction_Project) including data visualization and various model testing. The DDI_Project_Cleaner includes model testing and hyperparameter optimization.
+Also included is the initial code for the project (DDI_Severity_Prediction_Project) including data visualization and various model testing. The DDI_Project_Cleaner file includes model testing and hyperparameter optimization.
